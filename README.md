@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suraj2535
-- 👀 I’m interested in data science,web designing.
-- 🌱 I’m currently learning bachelor of science in information technology.
+- 👀 I’m interested in data science,data analyst, artificial intelligence, machine learning.
+- 🌱 I’ve recently completed bachelor of science in information technology.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me email-surajshaikh2535
 
